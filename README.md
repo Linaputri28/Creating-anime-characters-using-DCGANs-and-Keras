@@ -1,4 +1,4 @@
-# Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
+# Creating anime characters using DCGANs and Keras 
 ## Author : Cognitive Class AI
 --------------------------------
 
